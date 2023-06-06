@@ -1,7 +1,6 @@
 <h1 align="center">
-    <img  src="https://github.com/GabriellMatias/upfi-upload-images/assets/80908772/f7ec2989-ea05-4720-88b4-2cb472107404">
+    <img  src="https://github.com/GabriellMatias/Upfi-Images/assets/80908772/b70ee39b-35a3-4d9e-b272-9d648b5f4040">
 </h1>
-
 
 <h4 align="center">
   Upload your images and gifs for the world to see!
